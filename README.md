@@ -11,7 +11,7 @@ Este proyecto le pide a esa persona especial que sea tu San Valentín, ¡pero no
 ## Clona este proyecto  
 1. Clona este repositorio:  
    ```bash
-   git clone https://github.com/stephanieran/valentines.git
+   git clone https://github.com/DarwinTQ/valentinn
    ```  
 2. Abre `index.html` en tu navegador.  
 
