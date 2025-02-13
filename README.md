@@ -15,10 +15,6 @@ Este proyecto le pide a esa persona especial que sea tu San Valentín, ¡pero no
    ```  
 2. Abre `index.html` en tu navegador.  
 
-## ¡Pruébalo y envíaselo a alguien!  
-Si quieres jugar con este proyecto y obtener un enlace para compartir, revisa este [enlace en CodeSandbox](https://ffsvgv.csb.app/), donde puedes hacer un fork del proyecto y modificarlo como quieras (cambiar los gifs/mensajes) y luego compartir el enlace con esa persona especial.  
-
-1. Abre [CodeSandbox link](https://ffsvgv.csb.app/)  
-2. Haz clic en `Fork` en la esquina superior derecha para crear tu propia copia O simplemente copia el enlace de la vista previa y envíaselo a tu crush.  
+## ¡Pruébalo y envíaselo a alguien! 
 
 ¡Solo te pido que me cuentes qué te responde! 🤭
